@@ -1,0 +1,10 @@
+# Site settings
+title: YegCollective
+email: hello@ryanpriebe.com
+description: "Create meaningful software to solve real world issues"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yegcollective.github.io" # the base hostname & protocol for your site
+github_username:  yegcollective
+
+# Build settings
+markdown: kramdown
