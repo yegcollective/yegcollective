@@ -20,42 +20,5 @@ Skill level isn't important.  The more students, self-taught or just learning in
 
 The general idea of this group is, basically, a "distributed hackathon".  You can pitch an idea to the group, they'll vote on it, and if enough people want to help build it it becomes a project.  Management, direction and scale of the project is up to the person who pitched it, or project members who want to take on a leadership role.
 
-## Tools
-Requirements:
-
-* Github.com account
-* knowledge of git
-* basic knowledge of working in a team environment
-* knowledge in any computer language (programming languages, markup languages, etc)
-* at least a couple hours a week to dedicate towards project contributions (this is part time, for fun, not a job)
-
-Nice to have's:
-
-* decades of experience
-* a ferrari
-* experience in multiple languages
-
-## Membership
-Membership is free, voluntary and can be revoked at any time for either of the following two reasons:
-
-* You decide you want to leave
-* You are not making any contributions and are asked to leave
-
-Minimal participation is required of all members.  At the very least, you should be making one meaningful pull request every few weeks.
-
-### Responsibilities
-Super simple chain of command.  All group members can vote on potential projects, if your idea gets selected you are the Lead.
-
-* Lead
-	* Vets pull requests, sets goals (with feedback from the contributors)
-* Contributor
-	* Implements goals set by the Lead
-
 ## Ownership/Licensing
 Projects will be licensed ASF 2.0 (or similar), ownership really only refers to who is running the project rather than who literally owns it.  Anyone, including any member of the project team or the group, is allowed to fork any project even if you want to use it to make money.  Again, the philosophy defined above only intends to provide high level guidance as far as choosing what projects members can vote on and who should join the group, it does not dictate how group projects are managed.
-
-## Group Launch Requirements
-
-* Enough members to make this worthwhile; at least 3
-* 1 starter project
-* Forum or something for discussing new projects, voting, etc
