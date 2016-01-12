@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Philosophy
-permalink: /philosophy
+permalink: /philosophy/
 ---
 
 In a nutshell, create meaningful software to solve real world issues.

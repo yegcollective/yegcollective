@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Code Reviews
-permalink: /code_reviews
+permalink: /code_reviews/
 ---
 
 OSS software thrives on contribution, but a lot of projects on Github and beyond never see so much as a comment.  One of the goals of this group is to change that by auditing projects big and small.  A standard will be created, or an existing one used, for each language, then applied to each yegcollective project and to each audited project.
