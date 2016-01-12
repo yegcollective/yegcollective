@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Philosophy
-permalink: /philosophy/
+permalink: /philosophy
 ---
 
 In a nutshell, create meaningful software to solve real world issues.
@@ -11,6 +11,7 @@ As far as I can tell there isn't anything like this in Edmonton or anywhere else
 * Build on existing skills, learn new things
 * Network with other developers
 * Make software that matters and get it into the hands of people who need it
+* Reviewing and contributing to other OSS projects ([more info](/code_reviews))
 
 We have a problem with people who identify issues within a market or industry and think the best way to solve them is to start up a new company to build a product which does that for a profit (aka dirty, stinkin' capitalists).  This is an inherently selfish way to look at the world and we think we can do better.  Money makes the world go 'round, that is understood, but not everything has to be about money.  This group doesn't have to morph into just another startup, or an incubator for ideas which then go on to become startups.  We are looking for like-minded individuals who are interested in coding because they genuinely enjoy it and don't care if they get compensated for it (though there is always potential for that).
 
